@@ -57,7 +57,7 @@ function App() {
                     </div>
                     <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4">
                         <a
-                            href="https://wa.me/5218134177467?text=Hola%2C%20quiero%20agendar%20una%20cita%20en%20Estética%20Miguel%20Ángel"
+                            href="https://wa.me/5218181822688?text=Hola%2C%20quiero%20agendar%20una%20cita%20en%20Estética%20Miguel%20Ángel"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-full font-semibold transition-all duration-300 transform hover:scale-105 shadow-lg"
@@ -65,7 +65,7 @@ function App() {
                             💬 Agendar por WhatsApp
                         </a>
                         <a
-                            href="tel:+5218134177467"
+                            href="tel:+5218131055588"
                             className="bg-white text-purple-600 hover:bg-gray-100 px-8 py-4 rounded-full font-semibold transition-all duration-300 transform hover:scale-105 shadow-lg"
                         >
                             📞 Llamar Ahora
